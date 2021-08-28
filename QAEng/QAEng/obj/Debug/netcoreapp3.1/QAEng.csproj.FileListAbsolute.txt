@@ -1,0 +1,14 @@
+C:\Users\james\source\repos\QAEng\QAEng\bin\Debug\netcoreapp3.1\QAEng.exe
+C:\Users\james\source\repos\QAEng\QAEng\bin\Debug\netcoreapp3.1\QAEng.deps.json
+C:\Users\james\source\repos\QAEng\QAEng\bin\Debug\netcoreapp3.1\QAEng.runtimeconfig.json
+C:\Users\james\source\repos\QAEng\QAEng\bin\Debug\netcoreapp3.1\QAEng.runtimeconfig.dev.json
+C:\Users\james\source\repos\QAEng\QAEng\bin\Debug\netcoreapp3.1\QAEng.dll
+C:\Users\james\source\repos\QAEng\QAEng\bin\Debug\netcoreapp3.1\QAEng.pdb
+C:\Users\james\source\repos\QAEng\QAEng\obj\Debug\netcoreapp3.1\QAEng.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\QAEng\QAEng\obj\Debug\netcoreapp3.1\QAEng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\QAEng\QAEng\obj\Debug\netcoreapp3.1\QAEng.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\QAEng\QAEng\obj\Debug\netcoreapp3.1\QAEng.AssemblyInfo.cs
+C:\Users\james\source\repos\QAEng\QAEng\obj\Debug\netcoreapp3.1\QAEng.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\QAEng\QAEng\obj\Debug\netcoreapp3.1\QAEng.dll
+C:\Users\james\source\repos\QAEng\QAEng\obj\Debug\netcoreapp3.1\QAEng.pdb
+C:\Users\james\source\repos\QAEng\QAEng\obj\Debug\netcoreapp3.1\QAEng.genruntimeconfig.cache
